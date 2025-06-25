@@ -9,4 +9,4 @@ Experiment with the different properties that affect text display, and various t
 Be creative and come up with the formatting (text, background, spacing) to make this jump out and catch a viewer's attention.
 
 Week 5
-Started final Project, did my notes and added new pages of Autoservicehtml, About.html, and Contact.html changed background color added new images
+Started final Project did my notes added new pages, changed background color added new images
