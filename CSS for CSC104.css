@@ -1,19 +1,31 @@
 
-body{
+body.CSC104Mechanicshop{
 
                 background-color:goldenrod
                 }
-h2{
-                color: #ffffff;
-                font-style: italic;
+
+h1{
+                color: #000000;
+               
+                text-align: center;
                 }
 
 
 h1{
-     color: #ffffff;
+     color: #0a0a0a;
      font-style: italic;
 }
 
 div img{
-    max-width: 500px;
+     image-resolution: 500px ;
    }
+
+head {
+     background-color: navy;
+}
+
+
+body.Autoservice{
+     background-color: darkcyan;
+
+}
