@@ -1,0 +1,84 @@
+
+body.CSC104Mechanicshop{
+
+                background-color:rgb(255, 255, 255)
+                }
+
+h2{
+                color: #000000;
+               
+                text-align: center;
+                }
+
+
+h1{
+     color: #ffffff;
+     font-style: normal;
+     text-align: center;
+}
+h3{
+
+     color: #ffffff;
+}
+
+div img{
+     image-resolution: 500px ;
+   }
+
+head {
+     background-color: navy;
+}
+
+footer.CSC104Mechanicshop{
+     background-color: red;
+
+h2{
+     color: #ffffff;
+
+}
+
+
+}
+footer{
+     color: #ffffff;
+}
+
+
+body.Autoservice{
+     background-color: rgb(255, 255, 255);
+
+}
+
+table.Autoservice{
+     text-align: center;
+    }
+
+footer.Autoservice{
+background-color:red;
+h2{
+     color: #ffffff;
+}
+
+}
+
+body.About{
+h1{
+ text-align: center;
+ color: #ffffff;
+}
+
+}
+
+footer.About{
+background-color:red;
+h2{
+     color: #ffffff;
+}
+}
+
+footer.Contact{
+background-color:red;
+h2{
+     color: #ffffff;
+}
+}
